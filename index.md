@@ -1,0 +1,43 @@
+# 盈小钱项目文档
+
+- 1、 [About](docs/about.md) (项目概况) 
+- 2、 [Team Profile](docs/team-profile.md) (团队组建与分工) 
+- 3、 [Investigation](docs/investigation.md)（项目前期调研/竞品分析）
+- 4、 [Vision](docs/vision.md)（项目愿景）
+- 5、 [Product Backlog](docs/product_backlog.md) （产品特性库）
+- 6、 Requirement specification（需求规格说明书）
+  - 6.1 [Usecase Diagram](./require_spec/UsecaseDiagram.md)（用例图）
+  - 6.2 [Use Cases](./require_spec/UseCases.md)（用例+活动图）
+  - 6.3 [Domain Models](./require_spec/DomainModels.md)（领域模型）
+  - 6.4 [State Models](./require_spec/StateModel.md)（状态模型）
+  - 6.5 [System Sequence Diagrams](./require_spec/SystemSequenceDiagrams.md)（功能模型）
+  - 6.6 [Supplementary Requirements](./require_spec/SupplementaryRequirements.md)（补充需求）
+- 7、 Design（设计说明书）
+  - 7.1 [UI design](./require_spec/UIDesign.md)（界面设计）
+  - 7.2 [Database design（数据库设计）](./design/DatabaseDesign.md)
+  - 7.3 [Interface API design（接口 API 设计）](<https://www.showdoc.cc/fatwalletapi?page_id=2225152623522809>)(密码: 536536536)
+  - 7.4 [Architecture design（架构设计）](design/软件设计文档.md)
+  - 7.5 [Usecase design](./require_spec/用例设计.md)（用例设计）
+- 8、 生产规范与指南
+  - 8.1 [python PEP8 代码规范](<https://legacy.python.org/dev/peps/pep-0008/>)
+  - 8.2 [REST API 设计规范](<http://www.ruanyifeng.com/blog/2014/05/restful_api.html>)
+  - 8.3 [架构设计、详细设计（BCE方法）到应用程序框架映射指南](./product_spec/DesignToFramework.md)
+  - 8.4 [部署说明](design/部署文档.md)
+- 9、 成品展示
+  - 9.1 [演示视频](./require_spec/演示视频.mp4)
+- 10、 [用户手册](./require_spec/用户手册.md)
+- X1 meeting-records
+  - [inception meeting(2019/3/10)](docs/InceptionMeeting.md)
+- X2 [KANBAN](<https://github.com/orgs/haowe-7/projects>)
+- X3 [auditing-records](docs/audit_record.md)
+- X4 [Tech/Work Report](docs/tech_report.md)
+- X5 Final Report
+  - [16340016 hathcdy](reports/16340016.md)
+  - [16340014 cxk1998](reports/16340014.md)
+  - [16340017 chenf99](reports/16340017.md)
+  - [16340031 chent86](reports/16340031.md)
+  - [16340030 chensm9](reports/16340030.md)
+  - [16340026 chenpy26](reports/16340026.md)
+  - [16340015 chenbb6](reports/16340015.md)
+  - [小组分工与贡献率说明](./require_spec/groupContribution.md)
+
