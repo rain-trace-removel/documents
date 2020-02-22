@@ -1,4 +1,4 @@
-# 盈小钱项目文档
+# 智能雨雾去除相册项目文档
 
 - 1、 [About](docs/about.md) (项目概况) 
 - 2、 [Team Profile](docs/team-profile.md) (团队组建与分工) 
